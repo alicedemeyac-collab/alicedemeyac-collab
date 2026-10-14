@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=VOTRE_PRENOM&fontSize=60&animation=fadeIn" alt="Bannière de profil"/>
+</p>
+
+# Salut, moi c'est Alice Demey ! 👋
+
+
 🎓 **Étudiante en BUT informatique** passionnée par le développement web et logiciel.
 
 - 🔭 Je suis étudiante en **deuxième année** à **l'IUT d'Artois à Lens**
