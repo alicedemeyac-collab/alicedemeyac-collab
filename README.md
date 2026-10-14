@@ -41,5 +41,5 @@
 ### 🚀 Projets à la une
 
 * 🟢 **[Jeu pac-man](pac-man)** — Une application en JavaFX du célèbre jeu de Pac-Man. (Stack : Java, JavaFX)
-* 🟡 **[Space invaders]** - Une application avec une interface JavaFX du jeu Space-Invaders. Projet en groupe,actuellement en cours de réalisation. (Stack: Java, JavaFX)
-* 🟡 **[Otaku list]** - Une application web de gestion de mangas et animes avec système de notation, listes personnalisées et recommandations. Projet en groupe, actuellement en cours de réalisation. (Stack : PHP, Laravel)
+* 🟡 **Space invaders** - Une application avec une interface JavaFX du jeu Space-Invaders. Projet en groupe,actuellement en cours de réalisation. (Stack: Java, JavaFX)
+* 🟡 **Otaku list** - Une application web de gestion de mangas et animes avec système de notation, listes personnalisées et recommandations. Projet en groupe, actuellement en cours de réalisation. (Stack : PHP, Laravel)
