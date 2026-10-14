@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radial" alt="Statistiques GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=alicedemeycollab&layout=compact&theme=radial" alt="Langages les plus utilisés" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=alicedemeyac-collab&layout=compact&theme=radial" alt="Langages les plus utilisés" height="170"/>
 </p>
 
 ---
