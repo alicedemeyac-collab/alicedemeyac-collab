@@ -3,7 +3,7 @@
 - 🔭 Je suis étudiante à **l'IUT d'Artois à Lens**
 - 🌱 J'apprends actuellement **Laravel, React]***
 - 📫 Pour me contacter : **alicedemeyac@gmail.com**
-- 🔗 Mon LinkedIn : [linkedin.com/in/votre-profil](www.linkedin.com/in/alice-demey)
+- 🔗 Mon LinkedIn : [linkedin.com/alice-demey](www.linkedin.com/in/alice-demey)
 
 ---
 
@@ -11,11 +11,14 @@
 
 #### Langages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 #### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
