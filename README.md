@@ -1,7 +1,7 @@
 🎓 **Étudiante en BUT informatique** passionnée par le développement web et logiciel.
 
 - 🔭 Je suis étudiante à **l'IUT d'Artois à Lens**
-- 🌱 J'apprends actuellement **Laravel, React]***
+- 🌱 J'apprends actuellement **Laravel, React***
 - 📫 Pour me contacter : **alicedemeyac@gmail.com**
 - 🔗 Mon LinkedIn : [linkedin.com/alice-demey](www.linkedin.com/in/alice-demey)
 
