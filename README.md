@@ -1,10 +1,9 @@
 🎓 **Étudiante en BUT informatique** passionnée par le développement web et logiciel.
 
-- 🔭 Je travaille actuellement sur **[Nom d'un projet]**
-- 🌱 J'apprends actuellement **[Technologie/Framework ex: Laravel, Vue.js, Go]**
-- 💬 N'hésitez pas à me poser des questions sur **[Votre domaine d'expertise ex: Java, SQL, PHP]**
+- 🔭 Je suis étudiante à **l'IUT d'Artois à Lens**
+- 🌱 J'apprends actuellement **Laravel, React]***
 - 📫 Pour me contacter : **alicedemeyac@gmail.com**
-- 🔗 Mon LinkedIn : [linkedin.com/in/votre-profil](https://linkedin.com)
+- 🔗 Mon LinkedIn : [linkedin.com/in/votre-profil](www.linkedin.com/in/alice-demey)
 
 ---
 
@@ -23,6 +22,8 @@
 
 #### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ---
