@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=VOTRE_PRENOM&fontSize=60&animation=fadeIn" alt="Bannière de profil"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ALICE DEMEY&fontSize=60&animation=fadeIn" alt="Bannière de profil"/>
 </p>
 
 # Salut, moi c'est Alice Demey ! 👋
