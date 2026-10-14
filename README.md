@@ -40,5 +40,5 @@
 
 ### 🚀 Projets à la une
 
-* 🟢 **[Nom du Projet 1](lien-du-depot)** — Une application web permettant de... (Stack : PHP, Laravel, PostgreSQL)
+* 🟢 **[Jeu pac-man](pac-man)** — Une application en JavaFX du célèbre jeu de Pac-Mande. (Stack : Java, JavaFX)
 * 🟡 **[Nom du Projet 2](lien-du-depot)** — Un jeu développé avec... (Stack : Java, JavaFX)
