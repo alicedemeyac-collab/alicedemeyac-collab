@@ -3,7 +3,7 @@
 - 🔭 Je suis étudiante à **l'IUT d'Artois à Lens**
 - 🌱 J'apprends actuellement **Laravel, React***
 - 📫 Pour me contacter : **alicedemeyac@gmail.com**
-- 🔗 Mon LinkedIn : [linkedin.com/alice-demey](www.linkedin.com/in/alice-demey)
+- 🔗 Mon LinkedIn :(www.linkedin.com/in/alice-demey)
 
 ---
 
