@@ -5,8 +5,8 @@
 
 # Salut, moi c'est Alice Demey ! 👋
 
-🎓 **Étudiante en 2e année de BUT Informatique à l'IUT d'Artois (Lens)**  
-🚀 **À la recherche d'un stage de 8 à 10 semaines en développement web & logiciel** (à partir d'avril)
+🎓 **Étudiante en 2e année de BUT Informatique à l'IUT d'Artois de Lens**  
+🚀 **À la recherche d'un stage de 8 à 10 semaines à partir d'avril 2027**
 
 📫 **Me contacter :**  
 [![Email](https://img.shields.io/badge/Email-alice--demey%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:alicedemeyac@gmail.com)
