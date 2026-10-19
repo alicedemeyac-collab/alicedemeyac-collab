@@ -46,12 +46,3 @@
 | 🟡 **[Space Invaders](#)** | Projet de groupe : reproduction du jeu Space Invaders. | `Java` `JavaFX` | En cours |
 | 🟡 **[Otaku List](#)** | Application web de gestion de mangas/animes avec notation et recommandations. | `PHP` `Laravel` | En cours |
 
----
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicedemeyac-collab&show_icons=true&theme=radial&count_private=true" alt="Alice's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicedemeyac-collab&layout=compact&theme=radial" alt="Top Languages" height="150" />
-</div>
-
