@@ -8,7 +8,7 @@
   🎓 **Étudiante en 2e année de BUT Informatique à l'IUT d'Artois (Lens)**  
   🚀 **À la recherche d'un stage de 8 à 10 semaines à partir d'avril 2026**
 
-  📧 **Mail: alicedemeyac@gamil.com**<br>
+  📧 **Mail: alicedemeyac@gmail.com**<br>
       **https://www.linkedin.com/in/alice-demey**<br>
   ⌨︎ **Mon portfolio : https://www.alice-demey.fr**
 </div>
