@@ -5,8 +5,12 @@
 
 # Salut, moi c'est Alice Demey ! 👋
 
-  🎓 **Étudiante en 2e année de BUT Informatique à l'IUT d'Artois (Lens)**  
-  🚀 **À la recherche d'un stage de 8 à 10 semaines à partir d'avril 2026**
+  ### 👩‍💻 À propos de moi
+- 🎓 Étudiante en **BUT Informatique** (Parcours Développement d'applications)
+- 💻 Passionnée par le **développement web** et les **applications Java**
+- 🌐 Réalisations web hébergées et déployées sur **Clever Cloud**
+- 📌 À la recherche d'un **stage** de 8 à 10 semaines dès **avril 2027** puis d'une poursuite en **alternance en septembre 2027**
+
 
   [![Email](https://img.shields.io/badge/Email-alice--demey%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice-demey@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Demey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
