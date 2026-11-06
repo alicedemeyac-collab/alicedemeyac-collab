@@ -11,7 +11,7 @@
 - 🌐 Réalisations web hébergées et déployées sur **Clever Cloud**
 - 📌 À la recherche d'un **stage** de 8 à 10 semaines dès **avril 2027** puis d'une poursuite en **alternance en septembre 2027**
 
-
+  [![Portfolio](https://img.shields.io/badge/Portfolio-alice--demey.fr-4A90E2?style=for-the-badge&logo=firefox&logoColor=white)](https://alice-demey.fr)
   [![Email](https://img.shields.io/badge/Email-alice--demey%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice-demey@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Demey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 </div>
