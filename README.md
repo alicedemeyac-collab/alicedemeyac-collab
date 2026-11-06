@@ -60,7 +60,7 @@
 
 | Projet | Description | Stack Technique | Statut |
 | :--- | :--- | :--- | :---: |
-| 🟢 **[BookVerse](#)** | Plateforme de bibliothèque de livre contenant l'API Book de Google | `PHP` `Laravel` `API Rest` `PostgreSQL` `Vue.js` `Docker`  | En cours |
+|  🟡 **[BookVerse](#)** | Plateforme de bibliothèque de livre contenant l'API Book de Google | `PHP` `Laravel` `API Rest` `PostgreSQL` `Vue.js` `Docker`  | En cours |
 | 🟡 **[Space Invaders](#)** | Projet de groupe : reproduction du jeu Space Invaders. | `Java` `JavaFX` | En cours |
 | 🟡 **[Otaku List](#)** | Application web de gestion de mangas/animes avec notation et recommandations. | `PHP` `Laravel` | En cours |
 
