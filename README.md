@@ -5,16 +5,24 @@
 
 # Salut, moi c'est Alice Demey ! 👋
 
-  ### 👩‍💻 À propos de moi
-- 🎓 Étudiante en **BUT Informatique** (Parcours Développement d'applications)
-- 💻 Passionnée par le **développement web** et les **applications Java**
-- 🌐 Réalisations web hébergées et déployées sur **Clever Cloud**
-- 📌 À la recherche d'un **stage** de 8 à 10 semaines dès **avril 2027** puis d'une poursuite en **alternance en septembre 2027**
+🎓 **Étudiante en 2e année de BUT Informatique à l'IUT d'Artois (Lens)**
+  
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-alice--demey.fr-4A90E2?style=for-the-badge&logo=firefox&logoColor=white)](https://alice-demey.fr)
   [![Email](https://img.shields.io/badge/Email-alice--demey%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alice-demey@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alice%20Demey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 </div>
+
+---
+
+> 🎯 **Recherche de stage :** Je suis à la recherche d'un stage conventionné de **8 à 10 semaines** à partir d'**avril 2027**, dans le cadre de ma 2e année de BUT Informatique, avec l'objectif de poursuivre en **alternance** pour ma 3e année.
+
+---
+
+### 👩‍💻 À propos de moi
+- 🎓 Étudiante en **BUT Informatique** (Parcours Développement d'applications)
+- 💻 Passionnée par le **développement web** et les **applications Java**
+- 🌐 Réalisations web hébergées et déployées sur **Clever Cloud**
 
 ---
 
